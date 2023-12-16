@@ -1,0 +1,502 @@
+13:36:31.246 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:36:31.537 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:36:32.910 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:36:32.977 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:36:33.046 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:36:33.128 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:36:33.806 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:36:33.864 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:36:33.934 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:36:33.980 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:36:34.040 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:36:34.084 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:36:34.262 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:36:36.374 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:36:37.097 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:38:07.252 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:38:07.553 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:38:09.000 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:38:09.061 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:38:09.134 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:38:09.219 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:38:10.085 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:38:10.202 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:38:10.264 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:38:10.332 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:38:10.385 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:38:10.435 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:38:10.619 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:38:12.756 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:38:13.454 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:40:03.644 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:40:04.162 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:40:06.158 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:40:06.206 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:40:06.282 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:40:06.368 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:40:07.034 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:40:07.117 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:40:07.183 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:40:07.231 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:40:07.281 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:40:07.320 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:40:07.489 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:40:09.617 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:40:10.846 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:46:18.817 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:46:19.258 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:46:20.897 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:46:20.943 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:46:21.025 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:46:21.123 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:46:22.229 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:46:22.307 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:46:22.395 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:46:22.441 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:46:22.493 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:46:22.538 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:46:22.716 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:46:24.870 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:46:25.999 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:47:39.470 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:47:39.998 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:47:42.526 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:47:42.584 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:47:42.667 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:47:42.751 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:47:44.466 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:47:44.552 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:47:44.595 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:47:44.635 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:47:44.685 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:47:44.731 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:47:44.909 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:47:47.107 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:47:47.890 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:51:22.616 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:51:22.906 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:51:24.292 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:51:24.344 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:51:24.417 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:51:24.514 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:51:25.434 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:51:25.548 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:51:25.638 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:51:25.689 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:51:25.735 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:51:25.781 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:51:25.959 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:51:28.141 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:51:28.794 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:52:08.497 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:52:08.836 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:52:10.653 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:52:10.734 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:52:10.807 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:52:10.925 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:52:11.974 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:52:12.096 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:52:12.148 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:52:12.235 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:52:12.294 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:52:12.353 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:52:12.563 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:52:14.730 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:52:15.503 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:53:32.345 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:53:32.745 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:53:35.233 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:53:35.288 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:53:35.369 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:53:35.463 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:53:36.782 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:53:36.877 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:53:36.948 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:53:36.997 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:53:37.046 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:53:37.098 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:53:37.279 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:53:39.518 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:53:40.244 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:54:39.881 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:54:40.151 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:54:42.187 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:54:42.250 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:54:42.335 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:54:42.440 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:54:43.457 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:54:43.593 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:54:43.648 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:54:43.692 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:54:43.742 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:54:43.790 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:54:43.960 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:54:46.132 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:54:47.236 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+22:55:23.494 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:55:24.054 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:55:26.893 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:55:26.956 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:55:27.023 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:55:27.107 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+22:55:28.009 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+22:55:28.107 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+22:55:28.187 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+22:55:28.227 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+22:55:28.276 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+22:55:28.319 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+22:55:28.495 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+22:55:30.681 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+22:55:31.490 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:10:26.150 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:10:26.448 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:10:27.855 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:10:27.900 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:10:27.977 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:10:28.056 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:10:28.882 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:10:28.968 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:10:29.063 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:10:29.116 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:10:29.155 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:10:29.195 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:10:29.368 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:10:31.600 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:10:32.538 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:11:05.620 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:11:05.953 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:11:07.500 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:11:07.547 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:11:07.642 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:11:07.735 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:11:08.694 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:11:08.814 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:11:08.872 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:11:08.935 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:11:09.005 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:11:09.066 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:11:09.314 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:11:11.501 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:11:12.359 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:12:20.282 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:12:20.574 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:12:22.022 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:12:22.077 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:12:22.151 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:12:22.273 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:12:23.086 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:12:23.163 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:12:23.232 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:12:23.274 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:12:23.316 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:12:23.363 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:12:23.539 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:12:25.792 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:12:26.544 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:14:53.322 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:14:53.844 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:14:55.721 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:14:55.813 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:14:55.903 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:14:56.017 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:14:56.735 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:14:56.842 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:14:56.911 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:14:56.955 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:14:56.995 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:14:57.039 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:14:57.216 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:14:59.367 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:15:00.266 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:16:00.734 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:16:01.017 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:16:02.531 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:16:02.572 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:16:02.642 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:16:02.761 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:16:03.436 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:16:03.521 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:16:03.600 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:16:03.666 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:16:03.750 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:16:03.856 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:16:04.099 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:16:06.281 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:16:07.029 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:17:17.095 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:17:17.499 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:17:18.937 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:17:18.996 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:17:19.060 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:17:19.148 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:17:20.180 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:17:20.278 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:17:20.362 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:17:20.411 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:17:20.465 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:17:20.520 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:17:20.719 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:17:22.858 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:17:24.218 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:19:37.688 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:19:37.974 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:19:39.687 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:19:39.737 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:19:39.806 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:19:39.893 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:19:40.899 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:19:41.000 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:19:41.081 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:19:41.123 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:19:41.173 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:19:41.218 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:19:41.395 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:19:43.500 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:19:44.407 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:20:26.480 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:20:26.836 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:20:28.402 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:20:28.461 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:20:28.549 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:20:28.652 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:20:29.656 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:20:29.756 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:20:29.836 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:20:29.880 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:20:29.932 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:20:29.977 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:20:30.173 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:20:32.468 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:20:33.642 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+23:21:48.658 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:21:49.009 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:21:50.597 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:21:50.656 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:21:50.743 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:21:50.837 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:21:51.827 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:21:51.991 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:21:52.040 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:21:52.087 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:21:52.127 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:21:52.168 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+23:21:52.343 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+23:21:54.446 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+23:21:55.692 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+12:55:48.801 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+12:55:49.110 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+12:55:50.675 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+12:55:50.755 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+12:55:50.828 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+12:55:50.930 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+12:55:52.115 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+12:55:52.246 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+12:55:52.319 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+12:55:52.367 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+12:55:52.410 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+12:55:52.456 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+12:55:52.627 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+12:55:54.737 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+12:55:55.718 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+12:56:32.322 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+12:56:32.786 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+12:56:34.734 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+12:56:34.811 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+12:56:34.897 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+12:56:35.007 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+12:56:36.175 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+12:56:36.335 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+12:56:36.402 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+12:56:36.451 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+12:56:36.553 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+12:56:36.621 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+12:56:36.865 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+12:56:38.987 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+12:56:39.128 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+12:57:20.376 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+12:57:20.701 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+12:57:22.455 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+12:57:22.538 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+12:57:22.640 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+12:57:22.767 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+12:57:23.801 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+12:57:23.968 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+12:57:24.037 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+12:57:24.102 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+12:57:24.173 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+12:57:24.224 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+12:57:24.407 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+12:57:26.526 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+12:57:27.717 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+13:04:15.001 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:04:15.541 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:04:17.109 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:04:17.160 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:04:17.232 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:04:17.306 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:04:18.116 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:04:18.230 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:04:18.296 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:04:18.344 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:04:18.397 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:04:18.450 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:04:18.630 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:04:20.848 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:04:21.558 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+13:04:21.620 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+13:04:21.621 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+13:04:21.687 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+13:08:34.794 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:08:35.040 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:08:35.253 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:08:35.303 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:08:45.696 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:09:35.990 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:09:36.263 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:09:37.689 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:09:37.739 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:09:37.810 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:09:37.891 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:09:38.776 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:09:38.851 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:09:38.920 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:09:38.958 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:09:38.998 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:09:39.042 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:09:39.205 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:09:41.343 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:09:42.141 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+13:09:42.225 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+13:09:42.225 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+13:09:42.308 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+13:10:55.943 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:10:56.219 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:10:57.644 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:10:57.697 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:10:57.768 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:10:57.851 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:10:58.670 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:10:58.770 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:10:58.826 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:10:58.874 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:10:58.916 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:10:58.956 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:10:59.120 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:11:01.252 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:11:01.915 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+13:11:01.978 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+13:11:01.979 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+13:11:02.055 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+13:12:51.089 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:12:51.412 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:12:52.824 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:12:52.870 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:12:52.959 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:12:53.038 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:12:53.916 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:12:54.110 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:12:54.170 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:12:54.226 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:12:54.273 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:12:54.313 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:12:54.476 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:12:56.603 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:12:57.271 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+13:12:57.371 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+13:12:57.372 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+13:12:57.441 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+14:02:14.265 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+14:02:14.559 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+14:02:16.449 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+14:02:16.521 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+14:02:16.592 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+14:02:16.673 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+14:02:17.846 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+14:02:17.933 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+14:02:18.012 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+14:02:18.056 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+14:02:18.100 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+14:02:18.148 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+14:02:18.328 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+14:02:20.487 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+14:02:23.188 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+14:02:23.286 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+14:02:23.286 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+14:02:23.381 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+14:04:52.903 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+14:04:53.143 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+14:04:54.547 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+14:04:54.604 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+14:04:54.674 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+14:04:54.757 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+14:04:55.595 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+14:04:55.685 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+14:04:55.765 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+14:04:55.821 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+14:04:55.880 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+14:04:55.935 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+14:04:56.105 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+14:04:58.256 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+14:05:06.696 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+14:05:06.761 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+14:05:06.762 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+14:05:06.856 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+14:09:23.327 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+14:09:23.630 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+14:09:25.052 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+14:09:25.106 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+14:09:25.191 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+14:09:25.278 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+14:09:26.172 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+14:09:26.281 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+14:09:26.348 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+14:09:26.387 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+14:09:26.431 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+14:09:26.475 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+14:09:26.659 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+14:09:28.750 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+14:09:29.445 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+14:09:29.510 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+14:09:29.511 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+14:09:29.619 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+14:10:20.392 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+14:10:20.683 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+14:10:22.199 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+14:10:22.248 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+14:10:22.327 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+14:10:22.430 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+14:10:23.089 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+14:10:23.199 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+14:10:23.275 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+14:10:23.315 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+14:10:23.361 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+14:10:23.412 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+14:10:23.580 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+14:10:25.679 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+14:10:25.801 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+14:10:36.144 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+14:11:40.239 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+14:11:40.460 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+14:11:41.858 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+14:11:41.899 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+14:11:41.975 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+14:11:42.069 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+14:11:42.741 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+14:11:42.824 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+14:11:42.897 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+14:11:42.941 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+14:11:42.994 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+14:11:43.048 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+14:11:43.219 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+14:11:45.331 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+14:11:46.099 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart option
+14:11:46.175 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured shopping cart page heading text
+14:11:46.175 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified actualheading with expected shoping cart page heading
+14:11:46.251 [main] INFO  testcases.TC_006_ProductDisplayPageTest - captured quantity on shopping cart page 
+14:14:54.428 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+14:14:54.749 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+14:14:56.132 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+14:14:56.188 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+14:14:56.275 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+14:14:56.360 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+14:14:57.014 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product

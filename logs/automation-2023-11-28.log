@@ -1,0 +1,529 @@
+18:59:14.557 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+18:59:14.917 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+18:59:15.958 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:59:15.980 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+18:59:16.802 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+18:59:17.797 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+18:59:35.097 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+18:59:36.069 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+18:59:36.880 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+18:59:36.883 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+18:59:37.897 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+18:59:39.248 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+20:21:25.846 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+20:21:26.234 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+20:21:27.252 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+20:21:27.257 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+20:21:28.108 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+20:21:28.924 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+20:21:33.846 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+20:21:34.054 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+20:21:35.209 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+20:21:35.210 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+20:21:36.284 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+20:21:37.132 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+22:04:01.604 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+22:04:01.886 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+22:04:02.944 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+22:04:02.951 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+22:04:03.892 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+22:04:04.797 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed****
+22:19:46.524 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+22:19:47.727 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+22:19:48.680 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+22:19:48.695 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+22:19:49.542 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+22:19:50.706 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed****
+22:23:29.631 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+22:23:29.907 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+22:23:30.778 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+22:23:30.784 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+22:23:31.723 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+13:31:53.277 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+13:31:53.677 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+13:31:54.675 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:31:54.698 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+13:31:55.383 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+13:35:18.732 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+13:35:18.983 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+13:35:19.926 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:35:19.931 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+13:35:20.649 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+13:37:01.874 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+13:37:02.227 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+13:37:03.148 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:37:03.153 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+13:37:03.932 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+13:37:04.762 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed****
+15:53:44.220 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+15:53:44.600 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+15:53:45.486 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:53:45.494 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+15:53:46.498 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+15:53:47.341 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed****
+15:55:07.160 [main] INFO  testcases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+15:55:07.442 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+15:55:08.345 [main] INFO  testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:55:08.352 [main] INFO  testcases.TC_001_AccountRegistrationTest - Providing the Customer Data
+15:55:09.294 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating Expected message
+15:55:10.193 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed****
+15:02:12.872 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+15:02:13.100 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+15:02:14.883 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+15:02:14.884 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+15:02:16.702 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+15:08:39.074 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+15:08:39.294 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+15:08:40.010 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+15:08:40.010 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+15:08:40.443 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+15:09:53.027 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+15:09:53.266 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+15:09:54.008 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+15:09:54.009 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+15:09:54.429 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+15:11:01.089 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+15:11:01.357 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+15:11:02.211 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+15:11:02.211 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+15:11:02.646 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+15:18:09.434 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+15:18:09.615 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+15:18:11.999 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+15:18:11.999 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+15:18:12.452 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:32:14.984 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:32:15.227 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:32:16.039 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:32:16.042 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:32:16.445 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:33:01.325 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:33:01.591 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:33:02.510 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:33:02.511 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:33:02.948 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:35:07.921 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:35:08.198 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:35:09.117 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:35:09.117 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:35:09.535 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:36:46.796 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:36:47.112 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:36:47.880 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:36:47.881 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:36:48.308 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:38:44.028 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:38:44.342 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:38:45.806 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:38:45.807 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:38:46.217 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:40:11.427 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:40:11.759 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:40:12.626 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:40:12.626 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:40:13.047 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:51:41.949 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:51:42.293 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:51:43.013 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:51:43.014 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:51:43.511 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:51:43.610 [main] INFO  testcases.TC_002_LoginTest - compared
+17:51:43.611 [main] INFO  testcases.TC_002_LoginTest - **** finished TC_002_LoginTest 
+17:55:49.889 [main] INFO  testcases.TC_002_LoginTest -  **** Starting TC_003_LoginTest ****
+17:55:50.155 [main] INFO  testcases.TC_002_LoginTest - Clicked on Myaccount link
+17:55:50.971 [main] INFO  testcases.TC_002_LoginTest - Clicked on Login link
+17:55:50.972 [main] INFO  testcases.TC_002_LoginTest - ***** Providing login details ****
+17:55:51.405 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+17:55:51.490 [main] INFO  testcases.TC_002_LoginTest - verifying MyAccountPage is displayed
+17:55:51.491 [main] INFO  testcases.TC_002_LoginTest - **** finished TC_002_LoginTest 
+22:39:43.005 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+22:39:43.251 [main] INFO  testcases.TC_003_LoginDDT -  clicked on MyAccount link 
+22:39:45.320 [main] INFO  testcases.TC_003_LoginDDT -  clicked on Login link 
+22:39:45.616 [main] INFO  testcases.TC_003_LoginDDT - enterd email address 
+22:39:45.809 [main] INFO  testcases.TC_003_LoginDDT -  enterd password 
+22:39:45.960 [main] INFO  testcases.TC_003_LoginDDT - clicked on login button 
+22:39:47.866 [main] INFO  testcases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+22:39:47.904 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+22:39:48.000 [main] INFO  testcases.TC_003_LoginDDT -  clicked on MyAccount link 
+22:39:48.697 [main] INFO  testcases.TC_003_LoginDDT -  clicked on Login link 
+22:39:48.870 [main] INFO  testcases.TC_003_LoginDDT - enterd email address 
+22:39:48.981 [main] INFO  testcases.TC_003_LoginDDT -  enterd password 
+22:39:49.076 [main] INFO  testcases.TC_003_LoginDDT - clicked on login button 
+22:39:59.392 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+22:39:59.493 [main] INFO  testcases.TC_003_LoginDDT -  clicked on MyAccount link 
+22:40:00.166 [main] INFO  testcases.TC_003_LoginDDT -  clicked on Login link 
+22:40:00.334 [main] INFO  testcases.TC_003_LoginDDT - enterd email address 
+22:40:00.476 [main] INFO  testcases.TC_003_LoginDDT -  enterd password 
+22:40:00.566 [main] INFO  testcases.TC_003_LoginDDT - clicked on login button 
+22:40:10.861 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+22:40:10.940 [main] INFO  testcases.TC_003_LoginDDT -  clicked on MyAccount link 
+22:40:11.514 [main] INFO  testcases.TC_003_LoginDDT -  clicked on Login link 
+22:40:11.671 [main] INFO  testcases.TC_003_LoginDDT - enterd email address 
+22:40:11.775 [main] INFO  testcases.TC_003_LoginDDT -  enterd password 
+22:40:11.867 [main] INFO  testcases.TC_003_LoginDDT - clicked on login button 
+22:40:22.100 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+22:40:22.180 [main] INFO  testcases.TC_003_LoginDDT -  clicked on MyAccount link 
+22:40:22.741 [main] INFO  testcases.TC_003_LoginDDT -  clicked on Login link 
+22:40:22.926 [main] INFO  testcases.TC_003_LoginDDT - enterd email address 
+22:40:23.067 [main] INFO  testcases.TC_003_LoginDDT -  enterd password 
+22:40:23.182 [main] INFO  testcases.TC_003_LoginDDT - clicked on login button 
+22:40:33.508 [main] INFO  testcases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+22:40:33.616 [main] INFO  testcases.TC_003_LoginDDT -  clicked on MyAccount link 
+22:40:34.325 [main] INFO  testcases.TC_003_LoginDDT -  clicked on Login link 
+22:40:34.430 [main] INFO  testcases.TC_003_LoginDDT - enterd email address 
+22:40:34.503 [main] INFO  testcases.TC_003_LoginDDT -  enterd password 
+22:40:34.609 [main] INFO  testcases.TC_003_LoginDDT - clicked on login button 
+22:40:34.669 [main] INFO  testcases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+22:25:10.324 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:25:10.471 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:25:11.910 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+12:45:55.273 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+12:45:55.453 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+12:45:56.874 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+12:46:52.777 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+12:46:53.268 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+12:46:54.696 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+13:34:59.436 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+13:34:59.619 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+13:35:01.202 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+13:35:41.653 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+13:35:41.871 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+13:35:43.620 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+13:36:58.974 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+13:36:59.230 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+13:37:01.127 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+13:39:11.051 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+13:39:11.522 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+13:39:13.147 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+13:41:39.785 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+13:41:40.153 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+13:41:41.993 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+19:23:38.014 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+19:23:38.316 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+19:23:39.782 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+21:48:32.162 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+21:48:32.458 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+21:48:33.882 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+21:48:33.998 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched product name
+21:48:44.286 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+21:48:44.322 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched text
+22:00:46.556 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:00:46.782 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:00:48.287 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:00:48.414 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched product name
+22:00:58.841 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:00:58.884 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched text
+22:04:35.034 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:04:35.272 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:04:36.688 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:04:36.815 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched product name
+22:04:47.422 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:04:47.468 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched text
+22:15:26.179 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:15:26.417 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:15:27.829 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:15:27.956 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched product name
+22:15:28.249 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:15:28.295 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched text
+22:27:39.688 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:27:39.944 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:27:41.469 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:27:41.650 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:27:41.699 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched text
+22:33:31.376 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:33:31.639 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:33:33.124 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:33:33.543 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:33:33.588 [main] INFO  testcases.TC_004_SearchProductTest -  verifying searched text
+22:36:52.806 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:36:53.150 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:36:54.674 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:36:55.102 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:36:55.150 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+22:40:55.681 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:40:55.970 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:41:09.048 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:41:09.105 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+22:42:39.119 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:42:39.523 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:42:41.023 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:42:41.230 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:42:41.298 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+22:44:15.695 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:44:15.949 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:44:17.548 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:44:17.810 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:44:17.865 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+22:45:41.855 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:45:42.252 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:45:43.773 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:45:43.928 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:45:43.984 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+22:51:50.227 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:51:50.497 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:51:51.979 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:51:52.873 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:51:52.930 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+22:54:13.200 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+22:54:13.431 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+22:54:14.875 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+22:54:14.919 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+22:54:14.998 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+15:37:47.245 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+15:37:47.612 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+15:37:49.400 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+15:37:49.447 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+15:37:49.524 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+15:43:36.011 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+15:43:36.324 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+15:43:37.870 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+15:43:37.920 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+15:43:37.986 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+15:49:05.176 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+15:49:05.507 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+15:49:06.960 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+15:49:07.015 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+15:49:07.091 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+15:49:07.199 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+15:49:07.200 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+15:56:40.171 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+15:56:40.432 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+15:56:41.842 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+15:56:41.893 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+15:56:41.969 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+15:56:42.088 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+15:56:42.088 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+16:01:02.796 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+16:01:03.065 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+16:01:04.494 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+16:01:04.559 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+16:01:04.630 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+16:01:04.740 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+16:01:04.741 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+16:01:04.800 [main] INFO  testcases.TC_005_Adv_searchTest -  selected produtct and clicked 
+16:02:12.095 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+16:02:12.420 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+16:02:13.912 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+16:02:13.981 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+16:02:14.046 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+16:02:14.188 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+16:02:14.189 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+16:02:14.269 [main] INFO  testcases.TC_005_Adv_searchTest -  selected produtct and clicked 
+16:03:30.783 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+16:03:31.039 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+16:03:32.438 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+16:03:32.497 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+16:03:32.572 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+16:05:34.918 [main] INFO  testcases.TC_004_SearchProductTest -  Starting TC_003_LoginDataDrivenTest 
+16:05:35.480 [main] INFO  testcases.TC_004_SearchProductTest - Enter product name into search box
+16:05:36.887 [main] INFO  testcases.TC_004_SearchProductTest -  clicked on  search button 
+16:05:36.971 [main] INFO  testcases.TC_004_SearchProductTest -  capturing actualText 
+16:05:37.036 [main] INFO  testcases.TC_004_SearchProductTest - verifying searched text
+16:06:43.293 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+16:06:43.610 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+16:06:45.061 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+16:06:45.146 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+16:06:45.217 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+16:06:45.332 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+16:06:45.332 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+16:07:26.939 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+16:07:27.328 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+16:07:28.771 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+16:07:28.849 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+16:07:28.908 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+16:07:29.016 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+16:07:29.016 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+16:07:29.016 [main] INFO  testcases.TC_005_Adv_searchTest -  selected produtct and clicked 
+16:09:39.160 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+16:09:39.458 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+16:09:40.870 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+16:09:40.917 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+16:09:40.992 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+16:09:41.103 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+16:09:41.103 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+16:14:15.392 [main] INFO  testcases.TC_005_Adv_searchTest -  Starting TC_003_LoginDataDrivenTest 
+16:14:15.729 [main] INFO  testcases.TC_005_Adv_searchTest - Enter product name into search box
+16:14:17.253 [main] INFO  testcases.TC_005_Adv_searchTest -  clicked on  search button 
+16:14:17.299 [main] INFO  testcases.TC_005_Adv_searchTest -  capturing actualText 
+16:14:17.380 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searched text
+16:14:17.504 [main] INFO  testcases.TC_005_Adv_searchTest -  checked searched product exist or not
+16:14:17.504 [main] INFO  testcases.TC_005_Adv_searchTest -  verifying searchresult 
+18:01:16.355 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+18:01:16.652 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+18:01:18.105 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+18:01:18.203 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+18:01:18.312 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:18:20.678 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:18:20.967 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:18:22.516 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:18:22.577 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:18:22.653 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+22:51:51.340 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+22:51:51.691 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+22:51:53.000 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+22:51:53.098 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+22:51:53.180 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:12:37.008 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:12:37.390 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:12:38.850 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:12:38.903 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:12:38.975 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:12:39.061 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:12:39.872 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:12:39.960 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:12:40.040 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:12:40.082 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:12:40.129 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:13:43.574 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:13:43.809 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:13:45.189 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:13:45.241 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:13:45.319 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:13:45.399 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:13:46.055 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:13:46.124 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:13:46.191 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:13:46.236 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:13:46.279 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:16:17.541 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+23:16:18.009 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+23:16:19.520 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+23:16:19.577 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+23:16:19.653 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+23:16:19.735 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+23:16:20.584 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+23:16:20.663 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+23:16:20.739 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+23:16:20.789 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+23:16:20.862 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+23:16:20.926 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+12:46:54.775 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+12:46:55.078 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+12:46:56.456 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+12:46:56.519 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+12:46:56.623 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+12:46:56.727 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+12:46:57.442 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+12:46:57.519 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+12:46:57.589 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+12:46:57.646 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+12:46:57.695 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+12:46:57.737 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:01:09.889 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:01:10.216 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:01:11.746 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:01:11.802 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:01:11.876 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:01:11.970 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:01:12.773 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:01:12.862 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:01:12.942 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:01:12.983 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:01:13.032 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:01:13.075 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:03:25.356 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:03:25.784 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:03:25.910 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:03:25.983 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:03:36.393 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:05:57.411 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:05:57.653 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:05:59.150 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:05:59.197 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:05:59.270 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:05:59.366 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:06:00.201 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:06:00.357 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:06:00.407 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:06:00.452 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:06:00.496 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:06:00.540 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:06:00.717 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:06:02.935 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:08:15.726 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:08:15.997 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:08:17.488 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:08:17.533 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:08:17.624 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:08:17.706 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:08:18.344 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:08:18.425 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:08:18.512 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:08:18.559 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:08:18.613 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:08:18.656 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:08:18.836 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:08:20.953 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:11:19.956 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:11:20.278 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:11:21.768 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:11:21.857 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:11:21.948 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:11:22.069 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:11:23.021 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:11:23.134 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:11:23.199 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:11:23.254 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:11:23.300 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:11:23.344 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:11:23.519 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:11:25.724 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:12:31.875 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:12:32.120 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:12:33.534 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:12:33.581 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:12:33.652 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:12:33.736 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:12:34.380 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:12:34.467 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:12:34.531 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:12:34.571 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:12:34.639 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:12:34.689 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:12:34.876 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:12:38.998 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:15:20.757 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:15:20.993 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:15:23.415 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:15:23.504 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:15:23.590 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:15:23.694 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:15:24.351 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:15:24.435 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:15:24.514 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:15:24.565 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:15:24.615 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:15:24.660 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:15:24.832 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:15:27.051 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:15:29.231 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:16:42.798 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:16:43.093 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:16:44.595 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:16:44.702 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:16:44.779 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:16:44.912 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:16:46.173 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:16:46.328 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:16:46.388 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:16:46.440 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:16:46.494 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:16:46.544 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:16:46.730 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:16:48.894 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:16:48.996 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link
+13:18:08.791 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  Starting TC_006_ProductDisplayPageTest 
+13:18:09.194 [main] INFO  testcases.TC_006_ProductDisplayPageTest - Enter product name into search box
+13:18:10.664 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  clicked on  search button 
+13:18:10.714 [main] INFO  testcases.TC_006_ProductDisplayPageTest -  capturing actualText 
+13:18:10.799 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched text
+13:18:10.896 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched product availability
+13:18:11.828 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on searched product
+13:18:11.970 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verifying searched  product name in product display page
+13:18:12.022 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product band
+13:18:12.079 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product code
+13:18:12.131 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product avail
+13:18:12.176 [main] INFO  testcases.TC_006_ProductDisplayPageTest - verified product price
+13:18:12.353 [main] INFO  testcases.TC_006_ProductDisplayPageTest - set product quantity
+13:18:14.512 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on Addtocart button
+13:18:14.585 [main] INFO  testcases.TC_006_ProductDisplayPageTest - clicked on shopping cart link

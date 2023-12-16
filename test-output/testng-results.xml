@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-13T15:18:05 IST" name="Suite" finished-at="2023-12-13T15:18:22 IST" duration-ms="16872">
+    <groups>
+    </groups>
+    <test started-at="2023-12-13T15:18:05 IST" name="Test" finished-at="2023-12-13T15:18:22 IST" duration-ms="16872">
+      <class name="testcases.TC_007_AddToCartPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.TC_007_AddToCartPageTest@342c38f8]" started-at="2023-12-13T15:18:06 IST" name="setup" finished-at="2023-12-13T15:18:20 IST" duration-ms="14270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_search()[pri:0, instance:testcases.TC_007_AddToCartPageTest@342c38f8]" started-at="2023-12-13T15:18:20 IST" name="test_search" finished-at="2023-12-13T15:18:22 IST" duration-ms="1842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_search -->
+      </class> <!-- testcases.TC_007_AddToCartPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
